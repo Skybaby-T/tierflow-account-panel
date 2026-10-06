@@ -1,0 +1,11 @@
+{
+  "port": 8899,
+  "settings": {
+    "quotaPerUnit": 500000,
+    "dailyLimit": 5,
+    "refreshIntervalMs": 300000,
+    "authUser": "",
+    "authPass": ""
+  },
+  "accounts": []
+}

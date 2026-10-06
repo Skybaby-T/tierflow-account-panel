@@ -1,0 +1,19 @@
+# 依赖与运行时
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# 本机私有数据（含账号密码 / 会话 / Key，绝不入库）
+accounts.json
+sessions.json
+keys.json
+data/
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
+*.swp
